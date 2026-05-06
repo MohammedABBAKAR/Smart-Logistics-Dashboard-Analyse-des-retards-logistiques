@@ -91,6 +91,4 @@ Le dataset contient des informations sur :
 
 Ajouter ici des captures d’écran du dashboard Power BI.
 
-## 👤 Auteur
 
-Projet réalisé par Mohamed Abkar dans le cadre d’un projet d’analyse de données.
