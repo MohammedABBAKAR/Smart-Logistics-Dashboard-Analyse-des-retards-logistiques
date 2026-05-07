@@ -30,12 +30,14 @@ L’objectif est de construire un tableau de bord interactif avec Power BI afin 
 ### 1. Vue Globale – Indicateurs & Causes
 Vue générale des KPIs principaux, des causes de retard et de l’évolution mensuelle.
 
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
+
 ### 2. Vue Opérationnelle – Analyse par actifs
 Analyse de la performance des véhicules, du taux d’utilisation des actifs et des retards par camion.
-
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
 ### 3. Vue Technique – Corrélations & Détails
 Analyse détaillée des corrélations et tableau opérationnel filtrable.
-
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
 ## 🗂️ Données utilisées
 
 Le dataset contient des informations sur :
