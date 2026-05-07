@@ -37,7 +37,7 @@ Analyse de la performance des véhicules, du taux d’utilisation des actifs et 
 <img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/master/smart%20(3).png" />
 ### 3. Vue Technique – Corrélations & Détails
 Analyse détaillée des corrélations et tableau opérationnel filtrable.
-<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/user-attachments/assets/6b5fc14b-3fef-4421-8189-e501d20201e8" />
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/master/smart.png" />
 ## 🗂️ Données utilisées
 
 Le dataset contient des informations sur :
